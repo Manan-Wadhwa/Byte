@@ -1,0 +1,5 @@
+ML Task 1
+https://colab.research.google.com/drive/1mTxtA9-1bF2oTdYWxm5Rbirg6e8BOmxI?usp=sharing
+
+ML Task2
+https://colab.research.google.com/drive/1S02F5CffdoX-9mbK1EbUs9vRCUbriySv?usp=sharing
