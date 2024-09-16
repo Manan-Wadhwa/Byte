@@ -3,3 +3,9 @@ https://colab.research.google.com/drive/1mTxtA9-1bF2oTdYWxm5Rbirg6e8BOmxI?usp=sh
 
 ML Task2
 https://colab.research.google.com/drive/1S02F5CffdoX-9mbK1EbUs9vRCUbriySv?usp=sharing
+
+IOT Task1
+https://wokwi.com/projects/409103979590471681
+
+IOT Task2
+https://wokwi.com/projects/409195067886354433
