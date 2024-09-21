@@ -5,7 +5,7 @@ ML Task2
 https://colab.research.google.com/drive/1S02F5CffdoX-9mbK1EbUs9vRCUbriySv?usp=sharing
 
 IOT Task1
-https://wokwi.com/projects/409103979590471681
+https://www.tinkercad.com/things/dk0LMExEEH7-incredible-juttuli-bruticus/editel?sharecode=09ihXC4YoStCR99gQTm-pcItBusfYMHWNZoxbE1lS5k
 
 IOT Task2
 https://wokwi.com/projects/409195067886354433
